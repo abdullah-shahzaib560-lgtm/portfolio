@@ -23,7 +23,6 @@ A 4-workflow WhatsApp Business automation system handling a real pharmacy's full
 - ✅ Owner approval via WhatsApp (Confirm / Cancel / Delivered)
 - 📊 Automated weekly business report via email
 
-🔗 [View Project Repo](https://github.com/your-username/your-repo-name)
 
 ## 📫 Contact
 abdullahshahzaib560@gmail.com
